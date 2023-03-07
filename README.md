@@ -1,1 +1,1 @@
-# student-record
+# student-record-management-system
